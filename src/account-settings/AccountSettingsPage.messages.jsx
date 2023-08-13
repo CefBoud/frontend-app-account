@@ -422,6 +422,19 @@ const messages = defineMessages({
     defaultMessage: 'Gender',
     description: 'Label for account settings gender field.',
   },
+
+  'account.settings.field.phone_number': {
+    id: 'account.settings.field.phone_number',
+    defaultMessage: 'Phone number',
+    description: 'Label for account settings phone number field..',
+  },
+
+  'account.settings.field.mailing_address': {
+    id: 'account.settings.field.mailing_address',
+    defaultMessage: 'Mailing address',
+    description: 'Label for account settings mailing address field..',
+  },
+  
   'account.settings.field.gender.empty': {
     id: 'account.settings.field.gender.empty',
     defaultMessage: 'Add gender',

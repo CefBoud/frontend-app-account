@@ -134,6 +134,7 @@
   "account.settings.coaching.consent.success.continue": "Démarrer mon cours",
   "account.settings.coaching.managed.support": "support",
   "account.settings.coaching.managed.alert": "Votre nom est géré par {managerTitle}. Contactez votre administrateur pour obtenir de l'aide.",
+  "account.settings.field.mailing_address": "Adresse postale",
   "account.settings.field.phone_number": "Numéro de téléphone",
   "account.settings.field.phone_number.empty": "Ajouter un numéro de téléphone",
   "account.settings.field.coaching_consent": "Consentement pour le coaching",
